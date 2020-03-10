@@ -1,6 +1,6 @@
 # Computational Social Science Methods
 
-![logo](images/logo.jpg)
+![logo](images/logo.jfif)
 
 [Course Link](https://www.coursera.org/learn/computational-social-science-methods?specialization=computational-social-science-ucdavis)
 
