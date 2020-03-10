@@ -1,6 +1,6 @@
 # Computational Social Science Methods
 
-![logo](logo.jpg)
+![logo](images/logo.jpg)
 
 [Course Link](https://www.coursera.org/learn/computational-social-science-methods?specialization=computational-social-science-ucdavis)
 
@@ -15,7 +15,7 @@ In this last part, we take a bird’s-eye view on four main applications of CSS.
 
 This course if offered by UC Davis
 
-![college](college.jpg)
+![college](images/college.jpg)
 
 ## Peer Review Assignment : Web Scraping YouTube Videos
 
@@ -24,20 +24,20 @@ T​his activity is meant to us with practice for configuring an out-of-the-box 
 We will scrape data from 2 YouTube channels : CinemaSins and Collider Videos, using [Webscraper.io](https://webscraper.io/) ,
 that takes advantage of the Chrome browser from Google.
 
-![screenshot0](screenshot0.PNG)
+![screenshot0](images/screenshot0.PNG)
 
 ### Building the Scraper - Create sitemap
 ![screenshot1](screenshot1.PNG)
 
 ### Building the Scraper - Create list of Videos
-![screenshot2](screenshot2.PNG)
+![screenshot2](images/screenshot2.PNG)
 
-![screenshot3](screenshot3.PNG)
+![screenshot3](images/screenshot3.PNG)
 
-![screenshot4](screenshot4.PNG)
+![screenshot4](images/screenshot4.PNG)
 
 ### Scrape!
-![screenshot5](screenshot5.PNG)
+![screenshot5](images/screenshot5.PNG)
 
 ### Export Data
-![screenshot6](screenshot6.PNG)
+![screenshot6](images/screenshot6.PNG)
