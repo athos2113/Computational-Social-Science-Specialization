@@ -1,6 +1,6 @@
 # Computational Social Science Specialization
 
-![logo](logo.png)
+![logo](logo.PNG)
 
 >Digital technology has not only revolutionized society, but also the way we can study it. Currently, this is taken advantage of by the most valuable companies in Silicon Valley, the most powerful governmental agencies, and the most influential social movements. What they have in common is that they use computational tools to understand, and ultimately influence human behavior and social dynamics.
 
