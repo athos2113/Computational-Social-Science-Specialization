@@ -27,7 +27,7 @@ that takes advantage of the Chrome browser from Google.
 ![screenshot0](images/screenshot0.PNG)
 
 ### Building the Scraper - Create sitemap
-![screenshot1](screenshot1.PNG)
+![screenshot1](images/screenshot1.PNG)
 
 ### Building the Scraper - Create list of Videos
 ![screenshot2](images/screenshot2.PNG)
