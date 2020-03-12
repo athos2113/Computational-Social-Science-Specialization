@@ -1,6 +1,6 @@
 # Big Data, Artificial Intelligence, and Ethics
 
-![logo](images/logo.jpg)
+![logo](images/logo.jfif)
 
 [Course Link](https://www.coursera.org/learn/big-data-ai-ethics)
 
