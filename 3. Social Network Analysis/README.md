@@ -21,7 +21,7 @@ We use the databases we created in our [Web Scraping Assignment](https://github.
 > We will scrape data from 2 YouTube channels : CinemaSins and Collider Videos, using Webscraper.io , that takes advantage of the Chrome browser from Google.
 
 
-![screenshot0](images/screenshot0)
+![screenshot0](images/screenshot0.PNG)
 
 
 ### Upload the Database that contains data of both the YouTube channels
